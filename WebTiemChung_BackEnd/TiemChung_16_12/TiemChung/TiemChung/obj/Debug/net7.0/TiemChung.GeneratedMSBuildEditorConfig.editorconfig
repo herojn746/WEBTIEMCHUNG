@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TiemChung
+build_property.RootNamespace = TiemChung
+build_property.ProjectDir = C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung
+build_property._RazorSourceGeneratorDebug = 

@@ -1,0 +1,332 @@
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\appsettings.Development.json
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\appsettings.json
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.exe
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.deps.json
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.runtimeconfig.json
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.pdb
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\AutoMapper.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Azure.Core.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Azure.Identity.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Humanizer.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\System.CodeDom.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.csproj.AssemblyReference.cache
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.AssemblyInfoInputs.cache
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.AssemblyInfo.cs
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.csproj.CoreCompileInputs.cache
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.MvcApplicationPartsAssemblyInfo.cs
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.MvcApplicationPartsAssemblyInfo.cache
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.TiemChung.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.build.TiemChung.props
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TiemChung.props
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TiemChung.props
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets.build.json
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets.development.json
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\scopedcss\bundle\TiemChung.styles.css
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.csproj.CopyComplete
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.dll
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\refint\TiemChung.dll
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.pdb
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.genruntimeconfig.cache
+D:\DoAnCN\TiemChung\TiemChung\obj\Debug\net7.0\ref\TiemChung.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\StackExchange.Redis.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\DoAnCN\TiemChung\TiemChung\bin\Debug\net7.0\itextsharp.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\appsettings.Development.json
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\appsettings.json
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.exe
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.deps.json
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.runtimeconfig.json
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.pdb
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\AutoMapper.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Azure.Core.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Azure.Identity.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Humanizer.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\itextsharp.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\System.CodeDom.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\System.Memory.Data.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.csproj.AssemblyReference.cache
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.GeneratedMSBuildEditorConfig.editorconfig
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.AssemblyInfoInputs.cache
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.AssemblyInfo.cs
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.csproj.CoreCompileInputs.cache
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.MvcApplicationPartsAssemblyInfo.cs
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.MvcApplicationPartsAssemblyInfo.cache
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.TiemChung.Microsoft.AspNetCore.StaticWebAssets.props
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.build.TiemChung.props
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TiemChung.props
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TiemChung.props
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets.pack.json
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets.build.json
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets.development.json
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\scopedcss\bundle\TiemChung.styles.css
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.csproj.CopyComplete
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\refint\TiemChung.dll
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.pdb
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.genruntimeconfig.cache
+C:\backup\Do An Chuyen Nganh\TiemChung\TiemChung\obj\Debug\net7.0\ref\TiemChung.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\appsettings.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.exe
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.deps.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.pdb
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Humanizer.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\itextsharp.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.TiemChung.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.build.TiemChung.props
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TiemChung.props
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TiemChung.props
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\scopedcss\bundle\TiemChung.styles.css
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\refint\TiemChung.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.pdb
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN\BackEnd_25_11\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\ref\TiemChung.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\appsettings.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.exe
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.deps.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\TiemChung.pdb
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Humanizer.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\itextsharp.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.TiemChung.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.build.TiemChung.props
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TiemChung.props
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TiemChung.props
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\scopedcss\bundle\TiemChung.styles.css
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\refint\TiemChung.dll
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.pdb
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\TiemChung.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Desktop\Đồ_Án_CN_18_12\WebTiemChung_BackEnd\TiemChung_16_12\TiemChung\TiemChung\obj\Debug\net7.0\ref\TiemChung.dll
